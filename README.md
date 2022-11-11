@@ -1,6 +1,7 @@
 # Weather-App
 
 Search for accurate weather conditions of any location.
+
 Used - Java Script
      - API fetching.
      
